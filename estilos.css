@@ -1,0 +1,42 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.bandera{
+    background-color: blue;
+    width: 800px;
+    height: 500px;
+    margin-top: 250px;
+    margin-left: 500px;
+    padding: auto;
+    border: auto;
+}
+
+.rojo{
+    background-color: red;
+    width: 800px;
+    height: 166px;
+}
+
+.amarillo{
+    background-color: yellow;
+    width: 800px;
+    height: 166px;
+}
+
+.azul{
+    background-color: blue;
+    width: 800px;
+    height: 166px;
+}
+
+.simbolo{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-left: 300px;
+    margin-top: 150px;
+    position: absolute;
+}
